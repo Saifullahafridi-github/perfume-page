@@ -30,6 +30,10 @@ body {
 .navbar-toggler-icon {
   background-color: #333;
 }
+.width{
+  height:400px ;
+  
+}
 .landing-text {
   padding: 100px 0;
 }
@@ -46,7 +50,7 @@ body {
 }
 .btn-primary {
   background-color: 
-  #83a393
+  #f76307
   ;
   border-color: #007bff;
 }
@@ -57,7 +61,13 @@ body {
 .card {
   border: none;
   transition: transform 0.3s;
-  background-color: #83a393;
+  background-color: #38344f;
+}
+.font{
+  color: white;
+}
+.font2{
+  color: wheat;
 }
 .card:hover {
   transform: translateY(-10px);
@@ -65,7 +75,7 @@ body {
 .img {
    width: 100%; 
    height: auto;
-   background-image: url(3.jpg);
+   background-image: url(images/3.jpg);
    background-repeat: no-repeat;
    background-size: 100%100%;
    color:#f76307 ;
@@ -76,7 +86,7 @@ body {
   /* --bs-dropdown-link-active-bg: #{$blue-700}; */
 }
 .backcolor{
-  background-color: #597568 ;
+  background-color: #38344f;
 
 }
 .social-icons {
@@ -93,8 +103,16 @@ body {
 .social-icon:hover {
   color: #0056b3; /* Change color on hover */
 }
-footer .bg-custom {
-  background-color: #597568 ; /* Set your desired background color */
+.back{
+  background: #38344f; /* Set your desired background color */
+}
+.phone-icon{
+  font-size: 30px;
+}
+.contact{
+  color:#f76307 ;
+  text-decoration: none;
+  font-size: 30px;
 }
 /* .monogram {
 margin-top:10%;

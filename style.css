@@ -33,7 +33,7 @@ body {
 .width{
   height:400px ;
   max-width:fit-content;
-  margin-left: 20%;
+  /* margin-left: ; */
   
 }
 .landing-text {
